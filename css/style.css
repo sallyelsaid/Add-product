@@ -1,0 +1,38 @@
+#main-container {
+  margin: auto;
+  background-color: darkslateblue;
+  width: 400px;
+  height: min-content;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5%;
+  margin-top: 30px;
+}
+h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 200%;
+}
+#product-id {
+  width: 150px;
+  padding: 5px 20px;
+  background-color: rgb(223, 228, 234);
+}
+#product-btn {
+  padding: 5px 20px;
+}
+#product-btn:hover {
+  background-color: rgb(16, 5, 83);
+  color: white;
+  font-weight: bold;
+}
+#product-container {
+  background-color: aliceblue;
+  width: 200px;
+  margin-top: 10px;
+  margin-left: 42px;
+  padding-top: 15px;
+  font-size: 150%;
+  border-radius: 5%;
+  box-shadow: 0 2px black;
+}
